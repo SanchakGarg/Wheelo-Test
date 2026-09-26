@@ -1,0 +1,4 @@
+# 1 kHz tick so a 200 Hz (5 ms) control loop lands on exact tick boundaries.
+CONFIG_FREERTOS_HZ=1000
+CONFIG_ESP_MAIN_TASK_STACK_SIZE=8192
+CONFIG_COMPILER_OPTIMIZATION_PERF=y

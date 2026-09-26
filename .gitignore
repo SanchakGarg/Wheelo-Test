@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+sdkconfig
+sdkconfig.old
+sdkconfig.esp32-c3
+
+# archives / os
+*.zip
+.DS_Store
